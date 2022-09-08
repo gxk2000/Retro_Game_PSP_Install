@@ -6,7 +6,7 @@
 
 #### 安装教程
 
-gameshell终端输入并运行：`bash <(curl -s https://github.com/gxk2000/Retro_Game_PSP_Install/blob/main/PSP_retro_install.sh)`
+gameshell终端输入并运行：`bash <(curl -s https://gitee.com/KXGL/retro_game_psp_install/raw/master/PSP_retro_install.sh)`
 
 
 #### 使用说明
